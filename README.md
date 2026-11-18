@@ -1,2 +1,2 @@
 # LuxeVault
-LuxeVault by OTFZ (otfz.cloud)
+LuxeVault by OTFZ (outthefreezer.online)
